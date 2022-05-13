@@ -1,4 +1,7 @@
 # Operating System Simulation
+
+![example](CleanShot%202565-05-13%20at%2021.16.26@2x.png)
+
 App to simulate how Operating System works
 
 ## Project Description
